@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  Aplicativo.cpp
+c:\users\administrador1\documents\3er semestre\estructuradedatos\2do parcial\debercolas\aplicativo\aplicativo\aplicativo.cpp(34): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\administrador1\documents\3er semestre\estructuradedatos\2do parcial\debercolas\aplicativo\aplicativo\aplicativo.cpp(25): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: vea la declaración de 'scanf'
+c:\users\administrador1\documents\3er semestre\estructuradedatos\2do parcial\debercolas\aplicativo\aplicativo\aplicativo.cpp(28): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: vea la declaración de 'scanf'
+  Aplicativo.vcxproj -> C:\Users\Administrador1\Documents\3er Semestre\EstructuradeDatos\2do Parcial\DeberColas\aplicativo\Debug\Aplicativo.exe
+  Aplicativo.vcxproj -> C:\Users\Administrador1\Documents\3er Semestre\EstructuradeDatos\2do Parcial\DeberColas\aplicativo\Debug\Aplicativo.pdb (Partial PDB)
